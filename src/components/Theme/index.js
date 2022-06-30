@@ -19,8 +19,9 @@ breakpoints.xxl = '1440px';
 
 // ? https://chakra-ui.com/docs/theming/theme#colors
 const colors = {
-	primary: '#fff',
-	body: '#000',
+	body: '#e1dfdd',
+	primary: '#000',
+	secondary: '#fff',
 };
 
 // ? https://chakra-ui.com/docs/theming/theme#spacing
